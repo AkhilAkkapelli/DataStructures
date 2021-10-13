@@ -1,2 +1,2 @@
 # DataStructures
-Implementation of Various DataSructures in FORTRAN
+Implementation of Various DataStructures in FORTRAN
